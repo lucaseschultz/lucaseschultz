@@ -2,7 +2,7 @@
 
 - My name is: Lucas Schultz
   
-- 🔭 I’m currently working on finding a full-time development position for a company that I would be proud to work for
+- 🔭 I’m an entry-level self-taught developer
 
 - 📫 How to reach me: lucaseschultz@gmail.com
 
